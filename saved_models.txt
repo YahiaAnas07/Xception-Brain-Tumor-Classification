@@ -1,0 +1,5 @@
+https://drive.google.com/file/d/1GG8aBAX4cE4MgTngXY1mFEyZXvKwE7fr/view?usp=drive_link (cnn)
+https://drive.google.com/file/d/1FxKorkb90kNHNnTU-uSQasqpc4MNchzR/view?usp=drive_link (resnet50)
+https://drive.google.com/file/d/11e8RE2_BZeZlHcOJ4DzFjiNiiXO7vvUH/view?usp=drive_link(dense_121)
+https://drive.google.com/file/d/1Arm-Xf3KolxQVWl4xEC3Mf4mvm6CVR-N/view?usp=drive_link(vgg16)
+
